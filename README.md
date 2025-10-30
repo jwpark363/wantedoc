@@ -30,8 +30,8 @@
 
 
 ### 기준서 샘플, 처리 결과 샘플
-1 검토 기준서 샘플
-<img src='./document_rule.png' height=240>
+- 1 검토 기준서 샘플
+<img src='https://raw.githubusercontent.com/jwpark363/wantedoc/refs/heads/main/document_rule.png' height=240>
 
-2 에이전트 처리 결과 샘플
-<img src='./agent_result.png' height=400>
+- 2 에이전트 처리 결과 샘플
+<img src='![./agent_result.png](https://raw.githubusercontent.com/jwpark363/wantedoc/refs/heads/main/agent_result.png)' height=400>
