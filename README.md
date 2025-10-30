@@ -34,4 +34,4 @@
 <img src='https://raw.githubusercontent.com/jwpark363/wantedoc/refs/heads/main/document_rule.png' height=240>
 
 - 2 에이전트 처리 결과 샘플
-<img src='![./agent_result.png](https://raw.githubusercontent.com/jwpark363/wantedoc/refs/heads/main/agent_result.png)' height=400>
+<img src='https://raw.githubusercontent.com/jwpark363/wantedoc/refs/heads/main/agent_result.png' height=400>
