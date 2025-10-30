@@ -12,10 +12,12 @@
 - 노드 5개
 - 조건 노드 1개
 - RAG Vector DB : PostgreSQL + PgVector
+<img src='https://raw.githubusercontent.com/jwpark363/wantedoc/refs/heads/main/graph.png' height=480>
 
 ### 파일 구성
 - 검토 기준서 : txt
 - 기준 문서 : docx
+
 
 ### 기능
 - 검토 대상 문서(docx) 패스 전달
@@ -25,3 +27,11 @@
 - 기준서 기준 문서 검토
 - 검토 결과 리포트 생성
 - 리포트 제출
+
+
+### 기준서 샘플, 처리 결과 샘플
+1 검토 기준서 샘플
+<img src='./document_rule.png' height=240>
+
+2 에이전트 처리 결과 샘플
+<img src='./agent_result.png' height=400>
